@@ -1,1 +1,11 @@
 desktop.ini
+*.csv
+*.txt
+*.ini
+*.pkl
+*.json
+*.safetensors
+*.*.model
+lingvanex_api_key.txt
+*.pyc
+*.gsheet
